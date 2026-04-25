@@ -29,9 +29,13 @@ This project is a **public demo** that displays a large collection of casino‑s
 ### 1. Clone or download the repository
 
 1 - git clone https://github.com/Tofe7/casino-api-public-demo.git
+
 2 - cd casino-api-public-demo
+
 3 - python api.server.py
+
 The API will run on http://localhost:5000 (or the port defined in the script).
+
 4 - npm install
 
 
