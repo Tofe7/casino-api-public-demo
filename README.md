@@ -26,7 +26,9 @@ This project is a **public demo** that displays a large collection of casino‑s
 
 ## 🚀 Getting started
 
-run Auto-Run
+1 - git clone https://github.com/Tofe7/casino-api-public-demo.git
+
+2 - run Auto-Run
 
 or
 
