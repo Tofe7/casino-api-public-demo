@@ -28,12 +28,12 @@ This project is a **public demo** that displays a large collection of casino‑s
 ## 🚀 Getting started
 Use Auto-Run 
 or
-1. git clone https://github.com/yourusername/casino-api-demo.git
+1. git clone https://github.com/Tofe7/casino-api-demo.git
 2. cd casino-api-demo
 3. python api.server.py
 The API will run on http://localhost:5000 (or the port defined in the script).
 4. npm start
-The frontend will open at http://localhost:3000 (or the port shown in the console).
+
 
 Otherwise install the needed packages manually (e.g., pip install flask).
 
